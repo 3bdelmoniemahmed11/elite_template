@@ -3,7 +3,7 @@
 <h3>About the Project: 📚</h3>
 <p>A simple website for training on a grid system in bootstrap  and media queries</p>
 <h3>Live Link / Demo Link: 🔗</h3>
-<p>https://best-digital-website.netlify.app/</p>
+<p>elite-template-18.netlify.app/</p>
 <h3>Technologies Used: </h3>
 <ul>
 <li>HTML5</li>
